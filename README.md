@@ -4,7 +4,7 @@
 
 ## 功能
 - 包含启动、飞行、故障等功能
-- 使用SFML
+- 基于控制台文本
 - 有物理系统
 
 
@@ -19,5 +19,7 @@ mingw32-make -f Makefile.win all
 ```
 #### 运行
 ```bash
+cd build
+cd bin
 FlightSimulator.exe
 ```
