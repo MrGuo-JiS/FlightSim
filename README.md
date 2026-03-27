@@ -15,7 +15,8 @@
 ### 编译与运行
 #### 编译
 ```bash
-mingw32-make -f Makefile.win all
+cd 项目目录
+build.bat
 ```
 #### 运行
 ```bash
